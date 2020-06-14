@@ -1,0 +1,20 @@
+{
+  "name": "tush-aar-blogs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node Server.js",
+    "dev": "nodemon Server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tinymce/tinymce-react": "^3.6.0",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4",
+    "react-router-dom": "^5.2.0"
+  }
+}
